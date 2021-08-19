@@ -99,10 +99,6 @@ class NetCat:
                     self.socket.close()
                     sys.exit()
 
-        
-
-
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='catgirl\'s New Netcat Tool',
